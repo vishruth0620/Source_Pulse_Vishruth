@@ -1,0 +1,16 @@
+!pip install bert-score
+
+from bert_score import score
+
+generated_text = ["George Washington, a Federalist and Founding Father, was president from 1789 to 1797 and supported a strong federal government."]
+original_text = ["George Washington ran for presidency between 1789-1797, and supported having a strong federal government as a Federalist."]
+
+#calculate the bert score
+P, R, F1 = score(generated_text, original_text, lang = "en", verbose = True)
+
+# A good threshold vaue fro Bert Score is 0.9 to 1.0 for smaller senstences, because Bert Score is not accurate
+# when writing larger sentences
+
+print(f"Precision: {P.mean()}")
+print(f"Recall: {R.mean()}")
+print(f"F1: {F1.mean()}")

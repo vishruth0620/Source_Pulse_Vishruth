@@ -1,0 +1,250 @@
+{
+  'question': 'What are the family planning services funded through the HHSC Family Planning Program?',
+  'ground_truths': ['The family planning services needed are Health history and physical, Counseling and education,
+  Laboratory testing, Provision of a contraceptive method, Pregnancy tests, Sexually transmitted infection screenings and treatment, Referrals for additional services, as needed,
+  Immunizations,Breast and cervical cancer screening and diagnostic services,Prenatal services, andOther services subject to available funding'
+  ],
+  'answer': 'The Texas Health and Human Services Commission (HHSC) Family Planning Program funds a comprehensive array of services to help individuals manage their reproductive health and family planning needs. These services include:
+
+  Contraceptive Services:
+  Provision of various birth control methods, including oral contraceptives, patches, injections, intrauterine devices (IUDs), implants, condoms, and emergency contraception.
+  Counseling and education on the use and effectiveness of different contraceptive methods.
+  
+  Pregnancy Testing and Counseling:
+  Pregnancy tests to confirm pregnancy status.
+  Counseling based on pregnancy test results, including information on options available.
+  
+  Screening and Treatment for Sexually Transmitted Infections (STIs):
+  Testing for STIs, including HIV.
+  Treatment for diagnosed STIs.
+  Counseling and education on STI prevention.
+  
+  Comprehensive Health Exams:
+  Well-woman exams, including pelvic exams and breast exams.
+  Exams for men that include screenings for reproductive health issues.
+  
+  Cancer Screenings:
+  Cervical cancer screenings (Pap smears).
+  Breast cancer screenings (clinical breast exams and mammograms, if necessary).
+  
+  Preconception Health Services:
+  Counseling and interventions to promote health prior to pregnancy.
+  Screening and management of conditions that could affect pregnancy outcomes.
+  
+  Basic Infertility Services:
+  Initial infertility assessments and counseling.
+  Referrals to specialists if advanced infertility treatments are needed.
+  
+  Health Education and Counseling:
+  Education on reproductive health, family planning options, and healthy relationships.
+  Counseling on lifestyle choices that affect reproductive health, such as smoking cessation and nutrition.
+  
+  Vaccinations:
+  Provision of vaccines related to reproductive health, such as the human papillomavirus (HPV) vaccine.
+  
+  Referrals to Other Health and Social Services:
+  Connecting clients with additional health services, such as primary care, mental health services, and substance abuse treatment.
+  Referrals to social services that support overall well-being.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': 'How can a client handle a planning examination for an additional E/M office visit beyond required components for an office visit?',
+  'ground_truths': ['An annual family planning examination (billed with modifier FP) will not be reimbursed when
+  submitted with the same date of service as an additional E/M visit. If another condition requiring an
+  E/M office visit beyond the required components for an office visit, family planning visit, or surgical
+  procedure is discovered, the provider may submit a claim for the additional visit using Modifier 25 to
+  indicate that the client’s condition required a significant, separately identifiable E/M service. Documentation supporting the provision of a significant, separately identifiable E/M service must be maintained
+  in the client’s medical record and made available to Texas Medicaid upon request.'
+  ],
+  'answer': 'Provider's Role:
+  Assessment and Documentation:
+  
+  The healthcare provider should conduct a thorough assessment and document all aspects of the visit, including any extended services provided beyond the standard E/M components.
+  Billing Appropriately:
+  
+  The provider should use the appropriate billing codes for extended E/M services and any additional family planning services rendered. This might involve using modifiers to indicate extended services beyond the usual scope of an office visit.
+  Coordinating Care:
+  
+  Providers should coordinate care with other specialists if necessary and ensure that the client receives comprehensive family planning services.
+  By following these steps, clients can effectively handle planning examinations that require additional E/M office visits, ensuring they receive the comprehensive care needed for their family planning and reproductive health.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': 'What is an emergency behavioral health condition?',
+  'ground_truths': ['An emergency behavioral health condition is defined as any condition that, in the opinion of a prudent
+  layperson with an average knowledge of health and medicine, requires immediate intervention or
+  medical attention regardless of the nature, without which the client would present an immediate danger
+  to himself, or herself or others, or that renders the client incapable of controlling, knowing, or understanding the consequences of his or her actions.'
+  ],
+  'answer': 'An emergency behavioral health condition refers to a situation where an individual is experiencing a severe mental health or substance use crisis that requires immediate intervention to prevent serious harm to themselves or others. These conditions can manifest in various forms and often necessitate urgent medical attention or psychiatric care. Key characteristics of an emergency behavioral health condition include:
+
+  Suicidal Behavior:
+  
+  The individual has attempted suicide or is expressing a clear intent to harm themselves imminently.
+  This includes active planning or preparing for a suicide attempt.
+  Homicidal Behavior:
+  
+  The individual is exhibiting behavior or making statements indicating an immediate risk of harming others.
+  This includes specific threats or actions taken towards others.
+  Severe Psychosis:
+  
+  The individual is experiencing intense hallucinations or delusions that impair their ability to function or recognize reality.
+  This can lead to behaviors that pose a risk to their safety or the safety of others.
+  Severe Anxiety or Panic Attacks:
+  
+  The individual is experiencing overwhelming anxiety or panic attacks that lead to an inability to function, severe distress, or physical symptoms like chest pain, shortness of breath, or fainting.
+  This can be especially concerning if it leads to behaviors that endanger themselves or others.
+  Extreme Aggression or Agitation:
+  
+  The individual is exhibiting violent or uncontrollable behavior that poses a risk to themselves or others.
+  This can include destructive behavior, physical aggression, or severe agitation that cannot be de-escalated.
+  Severe Substance Use Crisis:
+  
+  The individual is experiencing an overdose, severe withdrawal symptoms, or other substance use-related crises that require immediate medical intervention.
+  This includes situations where the individual's substance use behavior poses a direct threat to their life or the lives of others.
+  Inability to Care for Basic Needs:
+  
+  The individual is unable to care for themselves due to a mental health crisis, leading to a risk of harm from neglect or self-endangerment.
+  This includes situations where mental health symptoms severely impair judgment and the ability to perform daily activities safely.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': 'Why do Medicaid physicians require to have authorization for non-emergency situations?',
+  'ground_truths': [
+    'Providers requesting prior authorization must document whether the client is currently an inpatient in
+    a hospital when requesting prior authorization. Prior authorization will not be approved if the provider
+    indicates the client is currently an inpatient in a hospital, except for one-time transports immediately
+    after the client’s discharge from the hospital.
+    Prior authorization requests may be submitted to the TMHP Prior Authorization Department by mail,
+    fax, or the electronic portal. Prescribing or ordering providers, dispensing providers, clients’ responsible
+    adults, and clients may sign prior authorization forms and supporting documentation using electronic
+    or wet signatures.For nonemergency ambulance transportation services rendered to a client, ambulance providers may
+    coordinate the nonemergency ambulance prior authorization request between the requesting provider,
+    which may include a physician, nursing facility, healthcare provider, or other responsible party.
+    Ambulance providers may assist in providing necessary information such as their National Provider
+    Identifier (NPI) number, fax number, and business address to the requesting provider. However, the
+    Non-emergency Ambulance Prior Authorization Request form must be signed, dated, and submitted by
+    the Medicaid-enrolled requesting provider, not the ambulance provider.'
+  ],
+  'answer': 'Authorization Process for Non-Emergency Situations
+  Assessment and Recommendation:
+  The physician assesses the patient’s condition and determines the need for a specific non-emergency service or treatment.
+  Documentation:
+  The physician documents the medical necessity of the service, including patient history, diagnosis, and expected outcomes.
+  Submission for Authorization:
+  The physician or healthcare provider submits the authorization request, along with the supporting documentation, to the Medicaid agency or managed care organization (MCO).
+  Review Process:
+  The Medicaid agency or MCO reviews the request, evaluates the medical necessity, and decides whether to approve or deny the service based on established criteria.
+  Communication of Decision:
+  The decision is communicated to the physician and the patient. If approved the service is scheduled and provided, if denied, alternative options may be considered.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': 'What are the requirements for an ambulance provider to bill for ET3 services?',
+  'ground_truths': ['Be enrolled in Texas-Medicaid as an ambulance provider.
+  Be responding to a call initiated by an emergency response system (9-1-1 call, fire, police, or other
+  locally established system for medical emergency calls).
+  Upon arrival at the scene, the emergency team’s field evaluation determines the client’s needs are
+  non-emergent but require medical attention.
+  Follow all requirements as outlined in section 2.2, Services, Benefits, Limitations, and Prior
+  Authorization.'
+  ],
+  'answer': 'To bill for ET3 services, ambulance providers need to meet certain requirements:
+  Participation Agreement: Ambulance providers must enter into a participation agreement with CMS to participate in the ET3 model.
+  Medicare Enrollment: Providers must be enrolled in Medicare and meet all Medicare enrollment requirements.
+  Compliance with ET3 Model Requirements: Providers must comply with all requirements outlined in the ET3 model, including protocols for triaging and treating patients on the scene, transporting patients to alternative destinations such as urgent care centers or primary care providers, and utilizing telehealth services when appropriate.
+  Documentation: Providers must maintain accurate documentation of the services provided, including patient assessments, treatments administered, and any communication with other healthcare providers involved in the patient's care.
+  Quality Reporting: Ambulance providers participating in the ET3 model may be required to report on certain quality measures to CMS.
+  Billing Compliance: Providers must comply with all billing requirements set forth by CMS for ET3 services, including proper coding and submission of claims.
+  Training and Education: Ambulance providers may need to undergo training and education on the ET3 model and its requirements to ensure compliance.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': 'What are the following sources that TPR includes ayments for Texas Medicaid?',
+  'ground_truths': [
+    'TPR includes payments from any of the following sources:
+     Other health insurance including assignable indemnity contract
+     Health maintenance organization (HMO)
+     Public health programs available to clients with Medicaid such as Medicare and Tricare
+     Profit and nonprofit health plan
+     Employment-related health insurance
+     Self-insured plans
+     Casualty coverage resulting from an accidental injury such as automobile or property insurance
+    (including no-fault insurance); No-fault automobile insurance such as personal injury protection
+    (PIP) and automobile medical insurance
+     Liability insurance
+     Life insurance policies, trust funds, cancer policies, or other supplemental policies
+     Workers’ Compensation
+     Medical support from absent parents
+     Court judgments or settlements from a liability insurer
+     First party probate-estate recoveries
+     Other federal programs unless excluded by statute
+     Other liable third parties'
+  ],
+  'answer': 'The following sources are considered Third Party Resources (TPR) for Texas Medicaid, which include payments made on behalf of Medicaid beneficiaries:
+  Private Health Insurance: Coverage through employers or individual plans that Medicaid beneficiaries might have in addition to their Medicaid benefits.
+  Medicare: The federal health insurance program for individuals aged 65 and older or those with certain disabilities, covering various healthcare services for dual-eligible beneficiaries.
+  Automobile Insurance: Policies that cover medical expenses resulting from automobile accidents.
+  Workers' Compensation: Insurance that provides medical and wage benefits to employees injured on the job.
+  Liability Insurance: Insurance that covers medical expenses due to injuries caused by the negligence or wrongful actions of another party (e.g., slip and fall incidents, medical malpractice).
+  Court-Ordered Medical Support: Payments made for medical services as a result of a court order, typically involving child support cases.
+  These sources are considered TPR because they are responsible for paying medical expenses before Medicaid does, ensuring that Medicaid remains the payer of last resort.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': 'How long will it take for TMHP to receive the claim if it was sent to the adoption agency before?',
+  'ground_truths': ['TMHP must receive the claim within 95 days of the date of disposition from the adoption agency denial,
+  payment, requests for refund or recoupment, to be considered for payment.''
+  ],
+  'answer': 'The time it takes for Texas Medicaid & Healthcare Partnership (TMHP) to receive a claim that was initially sent to an adoption agency can vary based on several factors. These factors include the efficiency of the adoption agency in forwarding the claim, the accuracy and completeness of the claim submission, and the specific processes and protocols of TMHP. However, some general guidelines can be provided:
+  Adoption Agency Processing Time: The adoption agency must first receive the claim and then forward it to TMHP. This process can take a few days to a few weeks, depending on the agency's internal processing times and workload.
+  Mail Delivery Time: If the claim is sent via postal mail, standard mail delivery times apply. This can add a few additional days to the overall timeline, depending on the distance and mail service efficiency.
+  Electronic Submission: If the claim is forwarded electronically, this can significantly speed up the process. Electronic claims can be transmitted almost instantaneously, but it still depends on the adoption agency's systems and procedures.
+  TMHP Processing Time: Once TMHP receives the claim, they typically process claims within a few weeks. However, processing times can vary based on the completeness and accuracy of the claim, as well as TMHP's current workload.
+  In summary, while it is difficult to provide an exact timeframe, the entire process from the adoption agency receiving the claim to TMHP processing it could range from a couple of weeks to over a month. For a more precise estimate, it would be advisable to contact the specific adoption agency and TMHP to inquire about their processing times and any potential delays.',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': '',
+  'ground_truths': [
+    ''
+  ],
+  'answer': '',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': '',
+  'ground_truths': [
+    ''
+  ],
+  'answer': '',
+  'contexts': [
+    ''
+  ]
+},
+{
+  'question': '',
+  'ground_truths': [
+    ''
+  ],
+  'answer': '',
+  'contexts': [
+    ''
+  ]
+}
